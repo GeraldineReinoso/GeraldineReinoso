@@ -1,5 +1,4 @@
-<![Header](.<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ec011342-c28f-46aa-aed7-b63a9e396a43" />
-)>
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ec011342-c28f-46aa-aed7-b63a9e396a43" />
 
 
 # 💫 About Me:
